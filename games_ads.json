@@ -20,7 +20,7 @@
     "gameListMain": false,
     "gameListBack": false,
     "recentPlay": true,
-    "rateUs": true,
+    "rateUs": false,
     "shareApp": true,
     "playMain": true,
     "playBack": true,
