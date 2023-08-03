@@ -25,7 +25,7 @@
     "playMain": false,
     "playBack": true,
     "playSimilar": true,
-    "play2Main": true,
+    "play2Main": false,
     "play2Back": false,
     "play2Similar": true
   },
