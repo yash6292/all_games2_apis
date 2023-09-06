@@ -25,7 +25,7 @@
     "shareApp": false,
     "playMain": false,
     "playBack": false,
-    "playSimilar": true,
+    "playSimilar": false,
     "play2Main": false,
     "play2Back": false,
     "play2Similar": false
