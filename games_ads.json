@@ -11,15 +11,15 @@
     "native_ad_id": "/229445249,22889861963/highR_RS88_AllGames_98_NATIVE_1782_080923",
     "banner_ad_id": "/229445249,22889861963/highR_RS88_AllGames_98_BANNER_1782_080923",
     "getStarted": false,
-    "getStartedBack": false,
+    "getStartedBack": true,
     "homeMain": false,
-    "homeBack": false,
+    "homeBack": true,
     "categoryMain": true,
     "categoryBack": false,
     "settingIcon": false,
     "settingBack": false,
     "gameListMain": false,
-    "gameListBack": false,
+    "gameListBack": true,
     "recentPlay": true,
     "rateUs": false,
     "shareApp": false,
@@ -28,7 +28,7 @@
     "playSimilar": true,
     "play2Main": false,
     "play2Back": true,
-    "play2Similar": false
+    "play2Similar": true
   },
   "ads_data": {
     "home_page": {
