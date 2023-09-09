@@ -11,7 +11,7 @@
     "native_ad_id": "/229445249,22889861963/highR_RS88_AllGames_98_NATIVE_1782_080923",
     "banner_ad_id": "/229445249,22889861963/highR_RS88_AllGames_98_BANNER_1782_080923",
     "getStarted": false,
-    "getStartedBack": true,
+    "getStartedBack": false,
     "homeMain": false,
     "homeBack": true,
     "categoryMain": true,
